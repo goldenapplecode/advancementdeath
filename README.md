@@ -1,2 +1,4 @@
 # advancementdeath
-This plugin will kill you whenever you get an advancement. Read the readme for a quick description of how to use it and some quick notes.
+This plugin will kill you whenever you get an advancement.
+You can toggle this by doing /tad or /toggleadvancementdeath. Only players with OP or players with the permission AdvancementDeath.toggle can use this command.
+You are free to use this plugin but if you plan on using it for commercial use or on some kind of social media please credit me: Furphy (https://www.youtube.com/channel/UCgxCnwcxz6hAMvR1qnZ5dfQ?view_as=subscriber)
